@@ -5,10 +5,13 @@
 - ![](https://img.shields.io/badge/Code-Java-black?style=flat-square&logo=java&logoColor=white)
 - ![](https://img.shields.io/badge/Tools-MongoDB-black?style=flat-square&logo=mongodb&logoColor=cyan)
 
-## Benim Discord Hesabım : Lexuizm Shâdy#9999
+
 
 
 ## Ziyaretci Sayım : <img src="https://komarev.com/ghpvc/?username=Erencimshu&label=Ziyaretçi%20Sayısı&color=552b75" alt="Erencimshu" />
+
+## 🐉 Discord Hesabım
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/920738699032014848?hideDiscrim=true)](https://discord.com/users/920738699032014848)
 
 ## Sunuculara Özel Üst Düzey Bot Yapılır : Lexuizm Shâdy#9999
 
