@@ -6,7 +6,8 @@
 ## 🎉 Bot Kodluyorum. Bot Editleri Yapıyorum. Herşeyi Sadece Hobi Amacaında Yapıyorum Herhangi Bir Meslek Gibi Bir Düşüncem Yok.
 
 ## - Kendimden biraz bahsedeyim. Ben Eren [Lexuizm](https://github.com/lexuizm) 16 yaşındayım, Discord Bot Hakkında Kodlamalar Yapıyorum.Ve Bunu 1 Yıl'dır Yapıyorum
-Js'yi Üst Ve Güzel Şekilde Yapıyorum Şimdi Html Öğrenmeye Çalışıyorum. Discord Sunuculara Özel Ücretsiz/Ücretli Botlar Yapıyorum.
+
+## 🎉🎉 Js'yi Üst Ve Güzel Şekilde Yapıyorum Şimdi Html Öğrenmeye Çalışıyorum. Discord Sunuculara Özel Ücretsiz/Ücretli Botlar Yapıyorum.
 
  ## Bildiğim Diller Ve Toolslar
 
