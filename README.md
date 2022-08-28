@@ -1,14 +1,14 @@
 ## Merhaba Github! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 
-🎉 Tekrardan herkese selam!
+## 🎉 Tekrardan herkese selam!
 
-🎉 Bot Kodluyorum. Bot Editleri Yapıyorum. Herşeyi Sadece Hobi Amacaında Yapıyorum Herhangi Bir Meslek Gibi Bir Düşüncem Yok.
+## 🎉 Bot Kodluyorum. Bot Editleri Yapıyorum. Herşeyi Sadece Hobi Amacaında Yapıyorum Herhangi Bir Meslek Gibi Bir Düşüncem Yok.
 
-- Kendimden biraz bahsedeyim. Ben Eren [Lexuizm)](https://github.com/lexuizm) 16 yaşındayım, Discord Bot Hakkında Kodlamalar Yapıyorum.Ve Bunu 1 Yıl'dır Yapıyorum
+## - Kendimden biraz bahsedeyim. Ben Eren [Lexuizm](https://github.com/lexuizm) 16 yaşındayım, Discord Bot Hakkında Kodlamalar Yapıyorum.Ve Bunu 1 Yıl'dır Yapıyorum
 Js'yi Üst Ve Güzel Şekilde Yapıyorum Şimdi Html Öğrenmeye Çalışıyorum. Discord Sunuculara Özel Ücretsiz/Ücretli Botlar Yapıyorum.
 
- Bildiğim Diller Ve Toolslar
+ ## Bildiğim Diller Ve Toolslar
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -18,7 +18,7 @@ Js'yi Üst Ve Güzel Şekilde Yapıyorum Şimdi Html Öğrenmeye Çalışıyorum
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 </br>
 
-<h3>🌟 Sosyal medya hesaplarım!</h3>
+## <h3>🌟 Sosyal medya hesaplarım!</h3>
 <p align="left">
      <a href="https://instagram.com/erenimizs" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
  <a href="https://open.spotify.com/user/31yj7be4gn67bo4jtmm4pzmdsxli" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
