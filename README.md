@@ -1,7 +1,14 @@
-### Merhaba Ben Eren 👋
-## Discorda Özel Bot Yapıyorum 
+## Merhaba Github! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-## Bildiğim Diller
+
+🎉 Tekrardan herkese selam!
+
+🎉 Bot Kodluyorum. Bot Editleri Yapıyorum. Herşeyi Sadece Hobi Amacaında Yapıyorum Herhangi Bir Meslek Gibi Bir Düşüncem Yok.
+
+- Kendimden biraz bahsedeyim. Ben Eren [Lexuizm)](https://github.com/lexuizm) 16 yaşındayım, Discord Bot Hakkında Kodlamalar Yapıyorum.Ve Bunu 1 Yıl'dır Yapıyorum
+Js'yi Üst Ve Güzel Şekilde Yapıyorum Şimdi Html Öğrenmeye Çalışıyorum. Discord Sunuculara Özel Ücretsiz/Ücretli Botlar Yapıyorum.
+
+ Bildiğim Diller Ve Toolslar
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -11,25 +18,12 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 </br>
 
-
-
-## Ziyaretci Sayım : <img src="https://komarev.com/ghpvc/?username=Erencimshu&label=Ziyaretçi%20Sayısı&color=552b75" alt="Erencimshu" />
-
-## 🐉 Discord Hesabım
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/920738699032014848?hideDiscrim=true)](https://discord.com/users/920738699032014848)
-
-## 🍷 Github Puanım
-<p align = 'center'>
-    <img src='https://github-readme-streak-stats.herokuapp.com/?user=Erencimshu&theme=gotham&hide_border=true'>
+<h3>🌟 Sosyal medya hesaplarım!</h3>
+<p align="left">
+     <a href="https://instagram.com/erenimizs" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+ <a href="https://open.spotify.com/user/31yj7be4gn67bo4jtmm4pzmdsxli" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+    
+   
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/920738699032014848?theme=dark&bg=18191c&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/920738699032014848)
+     
 </p>
-<p align = 'center'>
-    <img src='https://github-readme-stats.vercel.app/api?username=Erencimshu&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Erencimshu&show_icons=true&hide=php,html,typescript,css,markdown,python&theme=gotham&line_height=27&hide_border=true'/>
-</p>
-
-
-## Sunuculara Özel Üst Düzey Bot Yapılır : Lexuizm Shâdy#9999
-
-## 👋 Görüşmek Üzereee
-
-## Projelere Star At
